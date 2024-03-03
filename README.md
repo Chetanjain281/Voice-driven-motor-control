@@ -25,6 +25,10 @@ To get started with this project:
 3. Connect the necessary components as per the circuit diagram.
 4. Power on the system and initiate voice commands to control the motor(s).
 
+## Arduino Code 🛠️
+
+You can find the Arduino code for this project in the [`Voice_Driven_by_rj_chets.ino`](Voice_Driven_by_rj_chets.ino) file.
+
 ## **Configuration ⚙️**
 
 - `WIFI_SSID` and `WIFI_PASS`: Set your Wi-Fi credentials.
@@ -39,7 +43,7 @@ Once configured, the motor controller can be controlled using voice commands thr
 
 Contributions to this project are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
-### Things to note while implimenting this project :
+### Things to note while implimenting this project : ##
 
 1. Wi-Fi Credentials and API Keys: Make sure to replace "YOUR_WIFI_SSID", "YOUR_WIFI_PASS", "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx", and "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx" with your actual Wi-Fi SSID, password, SinricPro API key, and secret respectively.
 
