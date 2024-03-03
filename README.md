@@ -27,7 +27,7 @@ To get started with this project:
 
 ## Arduino Code 🛠️
 
-You can find the Arduino code for this project in the [`Voice_Driven_by_rj_chets.ino`](Voice_Driven_by_rj_chets.ino) file.
+You can find the Arduino code for this project in the [`Voice_Driven_by_rj_chets.ino`](Voice_Driven_Project.ino) file.
 
 ## **Configuration ⚙️**
 
