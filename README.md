@@ -1,29 +1,29 @@
-# Voice Driven Motor Controller
-
+#Voice Driven Motor Controller
 Welcome to the Voice Driven Motor Controller project repository!
 
-## About
-
+About
 This project aims to create a motor controller that can be controlled using voice commands. It utilizes Arduino and voice recognition technology to achieve this functionality.
 
-## Arduino Code
+Description
+This Arduino code allows you to control motor devices via voice commands using the SinricPro library. The code sets up Wi-Fi connectivity, initializes relay pins, and establishes communication with the SinricPro cloud service.
 
-You can find the Arduino code for this project in the `arduino_code` directory of this repository.
+Features
+Control multiple devices using voice commands.
+Utilizes the SinricPro library for seamless integration with voice assistants.
+Supports Wi-Fi connectivity for remote control.
+Getting Started
+To get started with this project:
 
-## Usage
+Upload the provided Arduino code to your Arduino board.
+Configure the Wi-Fi credentials and SinricPro API keys in the code.
+Connect the necessary components as per the circuit diagram.
+Power on the system and initiate voice commands to control the motor(s).
+Configuration
+WIFI_SSID and WIFI_PASS: Set your Wi-Fi credentials.
+APP_KEY and APP_SECRET: Obtain API keys from the SinricPro website.
+Configure device IDs and GPIO pins for relays and switches according to your setup.
+Usage
+Once configured, the motor controller can be controlled using voice commands through a compatible voice assistant linked to the SinricPro service.
 
-To use this project, follow these steps:
-
-1. Upload the Arduino code to your Arduino board.
-2. Connect the necessary components as per the circuit diagram.
-3. Power on the system.
-4. Initiate voice commands to control the motor(s).
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact the project maintainer at [chetanjain281@gmail.com].
-
+Contributing
+Contributions to this project are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
